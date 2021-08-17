@@ -57,7 +57,9 @@ module.exports = {
           collapsable: false,
           children: [
             '0001.md',
-            '0002.md'
+            '0002.md',
+            '0003.md',
+            '0004.md'
           ]
         },
       ],
