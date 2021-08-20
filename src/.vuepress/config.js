@@ -50,18 +50,6 @@ module.exports = {
         link: '/about/'
       },
     ],
-    sidebar: {
-      
-      '/thefact/': [
-        {
-          title: '新闻事实',
-          collapsable: false,
-          children: [
-            '0001.md',
-          ]
-        },
-      ],
-    }
   },
 
   /**
