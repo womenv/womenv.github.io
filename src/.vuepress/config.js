@@ -51,23 +51,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      '/voice/': [
-        {
-          title: '声音',
-          collapsable: false,
-          children: [
-            '0001.md',
-            '0002.md',
-            '0003.md',
-            '0004.md',
-            '0005.md',
-            '0006.md',
-            '0007.md',
-            '0008.md',
-            '0009.md',
-          ]
-        },
-      ],
+      
       '/thefact/': [
         {
           title: '新闻事实',
