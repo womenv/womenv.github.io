@@ -50,6 +50,22 @@ module.exports = {
         link: '/about/'
       },
     ],
+    sidebar: {
+      '/voice/': [
+        {
+          title: '声音',
+          collapsable: false,
+          children: genSidebarChildren(100)
+        },
+      ],
+      '/thefact/': [
+        {
+          title: '新闻事实',
+          collapsable: false,
+          children: genSidebarChildren(100)
+        },
+      ],
+    }
   },
 
   /**
@@ -59,4 +75,8 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
   ]
+}
+
+function genSidebarChildren(n) {
+  return Array(n).fill(0).map((e, i) => ('000' + (i + 1).toString()).slice(-4) + '.md')
 }
