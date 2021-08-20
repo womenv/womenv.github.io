@@ -55,14 +55,14 @@ module.exports = {
         {
           title: '声音',
           collapsable: false,
-          children: genSidebarChildren(100)
+          children: genSidebarChildren(9)
         },
       ],
       '/thefact/': [
         {
           title: '新闻事实',
           collapsable: false,
-          children: genSidebarChildren(100)
+          children: genSidebarChildren(1)
         },
       ],
     }
