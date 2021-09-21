@@ -34,4 +34,4 @@ footer: Made by  with ❤️
 
 [https://www.douban.com/group/topic/241902115/](https://www.douban.com/group/topic/241902115/)
 
-[继续阅读 ->](/voice)
+[继续阅读 ->](/voice/0001.html)
