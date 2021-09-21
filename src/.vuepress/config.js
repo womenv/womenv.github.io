@@ -42,6 +42,10 @@ module.exports = {
         link: '/thefact/'
       },
       {
+        text: '创作',
+        link: '/works/'
+      },
+      {
         text: '书单',
         link: '/booklist/'
       },
@@ -63,6 +67,21 @@ module.exports = {
           title: '新闻事实',
           collapsable: false,
           children: genSidebarChildren(1)
+        },
+      ],
+      '/works/': [
+        {
+          title: '脱束身衣漫画',
+          collapsable: false,
+          children: [
+            'hgnqmh001.md',
+            'hgnqmh002.md',
+            'hgnqmh003.md',
+            'hgnqmh004.md',
+            'hgnqmh005.md',
+            'hgnqmh006.md',
+            'hgnqmh007.md',
+          ]
         },
       ],
     }
