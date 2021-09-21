@@ -66,7 +66,7 @@ module.exports = {
         {
           title: '新闻事实',
           collapsable: false,
-          children: ['README.md', ...genSidebarChildren(1)]
+          children: genSidebarChildren(1)
         },
       ],
       '/works/': [
