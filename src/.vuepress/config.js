@@ -93,6 +93,14 @@ module.exports = {
           children: [
             'meme001.md'
           ]
+        },
+        {
+          title: '脱口秀',
+          collapsable: false,
+          children: [
+            'tkx001.md',
+            'tkx002.md',
+          ]
         }
       ],
     }
