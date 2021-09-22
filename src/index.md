@@ -14,6 +14,10 @@ features:
 footer: Made by  with ❤️
 ---
 
+## 栏目
+
+[声音](/voice) | [新闻事实](/thefact) | [创作](/works) | [生活](/lifestyle) | [书单播客](/booklist)
+
 ## 卷首
 
 有些女性爱说女人对女人恶意最大，而说这句话的人，你是否忘记了自己也是女性，你扪心自问一下，你对女性的恶意大吗？
@@ -34,4 +38,5 @@ footer: Made by  with ❤️
 
 [https://www.douban.com/group/topic/241902115/](https://www.douban.com/group/topic/241902115/)
 
-[继续阅读 ->](/voice/0001.html)
+[继续阅读 ->](/voice)
+
