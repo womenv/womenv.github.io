@@ -46,6 +46,10 @@ module.exports = {
         link: '/works/'
       },
       {
+        text: '生活',
+        link: '/lifestyle/'
+      },
+      {
         text: '书单',
         link: '/booklist/'
       },
@@ -59,7 +63,7 @@ module.exports = {
         {
           title: '声音',
           collapsable: false,
-          children: genSidebarChildren(15)
+          children: genSidebarChildren(16)
         },
       ],
       '/thefact/': [
@@ -83,6 +87,13 @@ module.exports = {
             'hgnqmh007.md',
           ]
         },
+        {
+          title: '女权meme',
+          collapsable: false,
+          children: [
+            'meme001.md'
+          ]
+        }
       ],
     }
   },
