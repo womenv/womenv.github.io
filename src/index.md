@@ -18,6 +18,8 @@ footer: Made by  with ❤️
 
 [声音](/voice) | [新闻事实](/thefact) | [创作](/works) | [生活](/lifestyle) | [书单播客](/booklist)
 
+<p><a id="random-article" href="#" onclick="(function () { window.location.href = '/voice/' + ('000' + Math.ceil(Math.random() * 17)).slice(-4) + '.html' })()">随机看一篇</a></p>
+
 ## 卷首
 
 有些女性爱说女人对女人恶意最大，而说这句话的人，你是否忘记了自己也是女性，你扪心自问一下，你对女性的恶意大吗？
