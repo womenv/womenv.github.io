@@ -14,11 +14,16 @@ features:
 footer: Made by  with ❤️
 ---
 
+<h1 style="display: none">主页</h1>
+
+#
+
 ## 栏目
 
 [声音](/voice) | [新闻事实](/thefact) | [创作](/works) | [生活](/lifestyle) | [书单播客](/booklist)
 
 <p><a id="random-article" href="#" onclick="(function () { window.location.href = '/voice/' + ('000' + Math.ceil(Math.random() * 17)).slice(-4) + '.html' })()">随机看一篇</a></p>
+
 
 ## 卷首
 
