@@ -46,6 +46,10 @@ module.exports = {
         link: '/works/'
       },
       {
+        text: '女性力量',
+        link: '/power/'
+      },
+      {
         text: '生活',
         link: '/lifestyle/'
       },
