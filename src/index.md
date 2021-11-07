@@ -24,6 +24,8 @@ footer: Made by  with ❤️
 
 <p><a id="random-article" href="#" onclick="(function () { window.location.href = '/voice/' + ('000' + Math.ceil(Math.random() * 17)).slice(-4) + '.html' })()">随机看一篇</a></p>
 
+![](./power/woman_in_space.jpg)
+
 
 ## 卷首
 
