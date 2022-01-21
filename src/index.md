@@ -22,9 +22,9 @@ footer: Made by  with ❤️
 
 [声音](/voice) | [新闻事实](/thefact) | [创作](/works) | [女性力量](/power) | [生活](/lifestyle) | [书单播客](/booklist)
 
-<p><a id="random-article" href="#" onclick="(function () { window.location.href = '/voice/' + ('000' + Math.ceil(Math.random() * 25)).slice(-4) + '.html' })()">随机看一篇</a></p>
+<p><a id="random-article" href="#" onclick="(function () { window.location.href = '/voice/' + ('000' + Math.ceil(Math.random() * 31)).slice(-4) + '.html' })()">随机看一篇</a></p>
 
-![](./power/woman_in_space.jpg)
+<!-- ![](./power/woman_in_space.jpg) -->
 
 
 ## 卷首
