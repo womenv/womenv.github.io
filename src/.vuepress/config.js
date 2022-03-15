@@ -67,7 +67,7 @@ module.exports = {
         {
           title: '声音',
           collapsable: false,
-          children: genSidebarChildren(31)
+          children: genSidebarChildren(34)
         },
       ],
       '/thefact/': [
