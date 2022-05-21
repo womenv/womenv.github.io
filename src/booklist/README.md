@@ -4,6 +4,8 @@
 
 [《厌女》](https://book.douban.com/subject/25836270/) - 上野千鹤子
 
+[《如何抑制女性写作》](https://book.douban.com/subject/35229199/) - 乔安娜·拉斯
+
 [《浮出历史地表》绪论](https://www.douban.com/group/topic/227339484/) [\[备用链接\]](https://1drv.ms/b/s!AkD_tRewRc12am1K4vGpyaOYRQI?e=FWRfn0) - 孟悦 / 戴锦华
 
 ## 偏学术
@@ -14,6 +16,6 @@
 
 # 播客
 
-海马星球 \[[小宇宙](https://www.xiaoyuzhoufm.com/podcast/5e2d145c418a84a0467fc4d8)\] \[[anchor](https://anchor.fm/seahorseplanet)\]
+海马星球 \[[小宇宙](https://www.xiaoyuzhoufm.com/podcast/5e2d145c418a84a0467fc4d8)\] \[[anchor](https://anchor.fm/seahorseplanet)\] \[[独立网站](https://seahorseplanet.net/)\]
 
-蒂花之秀 \[[anchor](https://anchor.fm/femiboxing2021)\]
+~~蒂花之秀 \[[anchor](https://anchor.fm/femiboxing2021)\]~~
