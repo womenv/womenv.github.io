@@ -67,7 +67,7 @@ module.exports = {
         {
           title: '声音',
           collapsable: false,
-          children: genSidebarChildren(34)
+          children: genSidebarChildren(35)
         },
       ],
       '/thefact/': [
@@ -89,6 +89,7 @@ module.exports = {
             'hgnqmh005.md',
             'hgnqmh006.md',
             'hgnqmh007.md',
+            'hgnqmh008.md',
           ]
         },
         {
